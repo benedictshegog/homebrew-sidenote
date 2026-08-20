@@ -1,7 +1,7 @@
 # Homebrew tap for Sidenote
 
 ```sh
-brew install --cask --no-quarantine benedictshegog/sidenote/sidenote
+brew install --cask benedictshegog/sidenote/sidenote
 ```
 
-`--no-quarantine` is needed while the app is unsigned. Source and releases: https://github.com/benedictshegog/sidenote
+The cask clears the quarantine flag after install while the app is unsigned. Source and releases: https://github.com/benedictshegog/sidenote
