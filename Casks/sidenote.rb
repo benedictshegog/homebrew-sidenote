@@ -1,6 +1,6 @@
 cask "sidenote" do
-  version "0.1.21"
-  sha256 "fffb0d2bea7c62802520c6e26d9e7251a8a7c1c6fe3144c08af75a251a2d802a"
+  version "0.1.22"
+  sha256 "e3ddf74eb92c01441eaac10a064f7e41b431bff35eeedfddea80d1e8acafcc6b"
 
   url "https://benedictshegog.xyz/downloads/Sidenote_#{version}_aarch64.dmg"
   name "Sidenote"
